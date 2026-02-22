@@ -1,0 +1,17 @@
+{
+    "certifications": [
+        {
+            "name": "Responsive Web Design",
+            "courses": [
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "name": "JavaScript Algorithms and Data Structures",
+            "courses": [
+                "JavaScript"
+            ]
+        }
+    ]
+}
